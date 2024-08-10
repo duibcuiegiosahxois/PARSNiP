@@ -1,1 +1,1 @@
-Due to privacy concerns, we are currently in the process of blurring all participants' faces and will publish the interaction videos soon.
+Due to privacy concerns, we do not publicly share videos containing identifiable facial information. To ensure the dataset's availability, the recorded human-robot interaction videos (in both the original SVO format and the converted MP4 format) will be shared upon request. Interested parties can contact Y.Zhou-13@tudelft.nl for access.
